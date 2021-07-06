@@ -21,3 +21,7 @@ If you are a programmer and want to help improve MPC-HC, then you can do so by s
 ## License
 
 MPC-HC's code is licensed under [GPL v3](/COPYING.txt).
+
+## Duplicate of clsid2's Media Player Classic.
+
+Sorry, clsid2, but I accidently managed to fork yours.
